@@ -1,0 +1,10 @@
+{
+    "title": "Александровский сад",
+    "imgs": ["http://example.com/1.jpg", "http://example.com/2.jpg"],
+    "description_short": "Сад у Кремля",
+    "description_long": "Один из первых общественных парков Москвы...",
+    "coordinates": {
+        "lon": "37.6088",
+        "lat": "55.7522"
+    }
+}
