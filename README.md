@@ -91,8 +91,8 @@ python manage.py load_place ссылка_на_место_или_путь
 
 ## Скриншоты
 
-![Карта](./readme_pictures/map.png)
+![Карта](readme_pictures/map.png)
 
-![Инфа по месту](./readme_pictures/place info.png)
+![Место](readme_pictures/place_info.png)
 
-![Админ панель](./readme_pictures/admin_panel.png)
+![Админ панель](readme_pictures/admin_panel.png)
